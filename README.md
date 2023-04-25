@@ -15,6 +15,3 @@ Please note that the use of the JavaExecutor feature for any malicious purposes 
 # Contributing
 
 Contributions to the GenfanadClient are welcome! If you find any issues or would like to add new features, please open an issue or submit a pull request.
-# License
-
-This project is licensed under the MIT License.
