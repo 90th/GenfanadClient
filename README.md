@@ -9,7 +9,7 @@ GenfanadClient is a CefSharp WinForms C# application that serves as a client for
 
 # Usage
 
-To use the GenfanadClient, simply download the repository build and run the application. Once the client is open, enter your login credentials and start playing the game. To execute JavaScript within the game, click the "JavaScript" button and enter your code in the provided text area.
+To use the GenfanadClient, simply download the repository build and run the application (make sure to install all the nuget packages). Once the client is open, enter your login credentials and start playing the game. To execute JavaScript within the game, click the "JavaScript" button and enter your code in the provided text area.
 
 Please note that the use of the JavaExecutor feature for any malicious purposes such as botting is strictly prohibited and not condoned by the developer.
 # Contributing
