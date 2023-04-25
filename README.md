@@ -1,7 +1,7 @@
 # GenfanadClient
 
 GenfanadClient is a CefSharp WinForms C# application that serves as a client for the MMO RPG game, Genfanad. This application provides a more user-friendly experience compared to playing the game on the website. Additionally, the client allows users to execute JavaScript within the game, providing the ability to modify the game's UI.
-#Features
+# Features
 
     Provides a user-friendly interface for the Genfanad game
     Allows users to execute JavaScript within the game for UI modifications
